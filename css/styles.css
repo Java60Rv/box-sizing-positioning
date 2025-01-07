@@ -7,7 +7,6 @@
 .box{
     width: 100px;
     height: 100px;
-    position: relative;
     border-radius: 50px;
   
 }
@@ -33,7 +32,7 @@
     position: absolute;
     left: 310px;
     top: 160px;
-    z-index: -3;
+    z-index: -1;
 }   
 
 .box-four{
@@ -41,7 +40,7 @@
     position: absolute;
     left: 140px;
     top: 210px;
-    z-index: -1;
+    z-index: -2;
 }
 
 .box-five{
